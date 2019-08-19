@@ -18,7 +18,7 @@ ___
 | Name     | Description   | Technologies    | Testing |
 | :------- | :-----------: | :-------------: | ------: |
 | [Acebook](https://github.com/lucianmot/acebook-off-the-rails) | A Facebook clone which uses continous integration and was created from scratch in 2 weeks. As a group we focused on agile processes, documentation and testing.| Ruby on Rails, PostgreSQL, Heroku, Travis| Rspec, Capybara|
-| [Fizzy-0](https://github.com/LucyMHall/Fizzy_O) | A mobile which enables a user to track their physiotherapy progress over time. My greatest contribution was the retrieval of data to [make a graph](https://github.com/LucyMHall/Fizzy_O/blob/master/src/dailyStats.js) using Victory.| React Native, AsyncStorage, Expo, Prettier| Jest, Enzyme||
+| [Fizzy-0](https://github.com/LucyMHall/Fizzy_O) | A mobile app which enables a user to track their physiotherapy progress over time. My greatest contribution was the retrieval of data to [make a graph](https://github.com/LucyMHall/Fizzy_O/blob/master/src/dailyStats.js) using Victory.| React Native, AsyncStorage, Expo, Prettier| Jest, Enzyme||
 
 
 ___
