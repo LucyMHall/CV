@@ -58,7 +58,7 @@ ___
 
 - BA Hons in History, 2.1, with First Class grade in dissertation
 
-#### **Queen Mary's High School, Walsall** *(September 2006 - June 2013)
+#### **Queen Mary's High School, Walsall** *(September 2006 - June 2013)*
 - 3	A*s at A-level in History, English Literature and General Studies; A in Physics
 - 2 As at AS level in Art and Biology
 - A in FSMQ Additional Mathematics (OCR)
