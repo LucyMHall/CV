@@ -18,28 +18,29 @@ ___
 | Name     | Description   | Technologies    | Testing |
 | :------- | :-----------: | :-------------: | ------: |
 | [Acebook](https://github.com/lucianmot/acebook-off-the-rails) | A Facebook clone which uses continous integration and was created from scratch in 2 weeks. As a group we focused on agile processes, documentation and testing.| Ruby on Rails, PostgreSQL, Heroku, Travis| Rspec, Capybara|
-| [Fizzy-0](https://github.com/LucyMHall/Fizzy_O) | A mobile which enables a user to track their physiotherapy progress over time. My greatest contribution was the retrieval of data to make a graph using Victory.| React Native, AsyncStorage, Expo, Prettier| Jest, Enzyme||
+| [Fizzy-0](https://github.com/LucyMHall/Fizzy_O) | A mobile which enables a user to track their physiotherapy progress over time. My greatest contribution was the retrieval of data to [make a graph](https://github.com/LucyMHall/Fizzy_O/blob/master/src/dailyStats.js) using Victory.| React Native, AsyncStorage, Expo, Prettier| Jest, Enzyme||
 
 
 ___
 
 ## **Skills**
 
-#### **Problem Solving**
-- As a marketing assistant and lead for the Albany's Family Marketing Strategy I had to frequently monitor progress, evaluate what was and was not working and make adjustments within a limited time frame
+#### **Teamwork**
 
-#### **Fast Learner**
-- When I first started as a marketing assistant I learnt the basics of Adobe Photoshop, InDesign, Campaign Monitor, Wordpress and Twitter in just two weeks, through careful note taking and practice.  I was also initially offered the job after volunteering in the department for just a week, due to my ability and eagerness to learn new things
+- I am a cheerful person who enjoys collaborating with others and ensuring they feel valued. I regularly ask for feedback to enable me to keep improving my group communication skills, both face-to-face and through a google form I created. I also championed the creation of team member 'user manuals' during my final project to help establish a comfortable team dynamic from the outset.
 
 #### **Communication**
 - I am a strong written and verbal communicator. I created engaging, clear and informative content for a variety of different audiences as a marketing assistant for the Albany, and after finishing Makers I started [a blog](https://medium.com/@lucymhall1995) to document my continuing learning.
 
+#### **Problem Solving**
+- As a marketing assistant and lead for the Albany's Family Marketing Strategy I had to frequently monitor progress, evaluate what was and was not working and make adjustments within a limited time frame
+
+#### **Fast Learner**
+- I have always enjoyed taking on new challenges. When I first started as a marketing assistant I learnt the basics of Adobe Photoshop, InDesign, Campaign Monitor, Wordpress and Twitter in just two weeks, through careful note taking and practice.  I was also initially offered the job after volunteering in the department for just a week, due to my ability and eagerness to learn new things
+
 #### **Organisation**
 - Prior to makers I developed strong organisational skills and resilience under pressure through balancing my time between my regular work, creating and managing multiple marketing campaigns, and responding to ad hoc tasks.
 
-#### **Teamwork**
-
-- I am a cheerful person who enjoys collaborating with others and ensuring they feel valued. I regularly ask for feedback to enable me to keep improving my group communication skills, both face-to-face and through a google form I created. I also championed the creation of team member 'user manuals' during my final project to help establish a comfortable team dynamic from the outset.
 ___
 
 ## **Education**
