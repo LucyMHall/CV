@@ -1,7 +1,7 @@
 # **Lucy Hall**
 ___
 
-| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work_experience) | [Interests](#interests)
+| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Interests](#interests)
 
 I'm a full stack developer with experience in.......
 
