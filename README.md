@@ -3,12 +3,11 @@ ___
 
 | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Interests](#interests) 
 
-I'm a full stack developer with experience in.......
+I'm a full stack developer with experience writing test-driven code in Ruby and Javascript.
 
-I'm looking for a role which allows me to improve people's day to day experiences, be it my colleagues or the general public. I have a high level of determination when faced with a challenge, and I am always interested in learning new things.
+I'm looking for a role which allows me to improve people's day to day experiences, be it my colleagues or the general public. I have a high level of determination when faced with a challenge, and I am always interested in learning new things - I am currently looking into coding and accessibility.
 
-Prior to applying to Makers, I received a 2.1 degree in History from the University of Cambridge and went on to spend one and a half years in Arts Marketing.
-
+Prior to applying to Makers, I received a 2.1 degree in History from the University of Cambridge and went on to spend one and a half years in Arts Marketing, working extensively with visiting artists and their teams to create bespoke marketing campaigns.
 
 ___
 
@@ -18,8 +17,7 @@ ___
 | Name     | Description   | Technologies    | Testing |
 | :------- | :-----------: | :-------------: | ------: |
 | [Acebook](https://github.com/lucianmot/acebook-off-the-rails) | A Facebook clone which uses continous integration and was created from scratch in 2 weeks. As a group we focused on agile processes, documentation and testing.| Ruby on Rails, PostgreSQL, Heroku, Travis| Rspec, Capybara|
-| [Fizzy-0](https://github.com/LucyMHall/Fizzy_O) | A mobile app which enables a user to track their physiotherapy progress over time. My greatest contribution was the retrieval of data to [make a graph](https://github.com/LucyMHall/Fizzy_O/blob/master/src/dailyStats.js) using Victory.| React Native, AsyncStorage, Expo, Prettier| Jest, Enzyme||
-
+| [Fizzy-0](https://github.com/LucyMHall/Fizzy_O) | A mobile app which enables a user to track their physiotherapy progress over time. My primary contribution was the retrieval of data and the creation of [a graph](https://github.com/LucyMHall/Fizzy_O/blob/master/src/dailyStats.js) using Victory.| React Native, AsyncStorage, Expo, Prettier| Jest, Enzyme||
 
 ___
 
@@ -33,7 +31,7 @@ ___
 - I am a strong written and verbal communicator. I created engaging, clear and informative content for a variety of different audiences as a marketing assistant for the Albany, and after finishing Makers I started [a blog](https://medium.com/@lucymhall1995) to document my continuing learning.
 
 #### **Problem Solving**
-- As a marketing assistant and lead for the Albany's Family Marketing Strategy I had to frequently monitor progress, evaluate what was and was not working and make adjustments within a limited time frame
+- During my time at Makers I honed my ability to logically break down a daunting task, such as create and test a web app using completely new technology in 4-5 days, into manageable pieces. Multiple peers I have paired with have commented on my *'calm methodical approach to debugging'*, I have an optimistic outlook and encourage myself to celebrate small wins, an attitude necessary when debugging complicated code.
 
 #### **Fast Learner**
 - I have always enjoyed taking on new challenges. When I first started as a marketing assistant I learnt the basics of Adobe Photoshop, InDesign, Campaign Monitor, Wordpress and Twitter in just two weeks, through careful note taking and practice.  I was also initially offered the job after volunteering in the department for just a week, due to my ability and eagerness to learn new things
@@ -83,3 +81,5 @@ ___
 - **Dungeons and Dragons** (5e), and all the awesome DnD culture around it including *Critical Role* and *The Adventure Zone*
 - **Making things** whether it be drawing and painting, trying out 3D design on Blendr, or attempting casual DIY around my flat with the help of YouTube tutorials, my trusty bag of tools, and a can-do attitude!
 - **All animals**, the answer to the question *"Do you want to see a picture of my pet?"* is always yes.
+
+* quote from one of my anonymous pair feedback form responses
