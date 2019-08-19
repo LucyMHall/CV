@@ -80,6 +80,6 @@ ___
 ## **Interests**
 - **Dungeons and Dragons** (5e), and all the awesome DnD culture around it including *Critical Role* and *The Adventure Zone*
 - **Making things** whether it be drawing and painting, trying out 3D design on Blendr, or attempting casual DIY around my flat with the help of YouTube tutorials, my trusty bag of tools, and a can-do attitude!
-- **All animals**, the answer to the question *"Do you want to see a picture of my pet?"* is always yes.
+- **All animals**, the answer to the question *"Do you want to see a picture of my pet?"* is always yes
 
 * quote from one of my anonymous pair feedback form responses
