@@ -16,8 +16,8 @@ ___
 
 | Name     | Description   | Technologies    | Testing |
 | :------- | :-----------: | :-------------: | ------: |
-| [Acebook](https://github.com/lucianmot/acebook-off-the-rails) | A Facebook clone which uses continous integration and was created from scratch in 2 weeks. As a group we focused on agile processes, documentation and testing.| Ruby on Rails, PostgreSQL, Heroku, Travis| Rspec, Capybara|
-| [Fizzy-0](https://github.com/LucyMHall/Fizzy_O) | A mobile app which enables a user to track their physiotherapy progress over time. My primary contribution was the retrieval of data and the creation of [a graph](https://github.com/LucyMHall/Fizzy_O/blob/master/src/dailyStats.js) using Victory.| React Native, AsyncStorage, Expo, Prettier| Jest, Enzyme||
+| [Acebook](https://github.com/lucianmot/acebook-off-the-rails) | A Facebook clone which uses continous integration and was created from scratch in 2 weeks. As a group we focused on agile processes, documentation and testing, and documented our journey through a series of [vlogs](https://www.youtube.com/channel/UCjQnMV5qEJ1BF_MSobdw01Q)| Ruby on Rails, PostgreSQL, Heroku, Travis| Rspec, Capybara|
+| [Fizzy-0](https://github.com/LucyMHall/Fizzy_O) | A mobile app, which enables a user to track their physiotherapy progress over time. My primary contribution was the retrieval of data and the creation of [a graph](https://github.com/LucyMHall/Fizzy_O/blob/master/src/dailyStats.js) using Victory.| React Native, AsyncStorage, Expo, Prettier| Jest, Enzyme||
 
 ___
 
@@ -25,16 +25,16 @@ ___
 
 #### **Teamwork**
 
-- I am a cheerful person who enjoys collaborating with others and ensuring they feel valued. I regularly ask for feedback to enable me to keep improving my group communication skills, both face-to-face and through a google form I created. I also championed the creation of team member 'user manuals' during my final project to help establish a comfortable team dynamic from the outset.
+- I am a cheerful person who enjoys collaborating with others and ensuring they feel valued. I regularly ask for feedback to enable me to keep improving my group communication skills, both face-to-face and through a google form I created. I also championed the creation of team member 'user manuals' during my final project to help establish a comfortable team dynamic from the outset. 
 
 #### **Communication**
 - I am a strong written and verbal communicator. I created engaging, clear and informative content for a variety of different audiences as a marketing assistant for the Albany, and after finishing Makers I started [a blog](https://medium.com/@lucymhall1995) to document my continuing learning.
 
 #### **Problem Solving**
-- During my time at Makers I honed my ability to logically break down a daunting task, such as create and test a web app using completely new technology in 4-5 days, into manageable pieces. Multiple peers I have paired with have commented on my *'calm methodical approach to debugging'*, I have an optimistic outlook and encourage myself to celebrate small wins, an attitude necessary when debugging complicated code.
+- During my time at Makers I honed my ability to logically break down a daunting task, such as create and test a web app using completely new technology in 4-5 days, into manageable pieces. Multiple peers I have paired with have commented on my *'calm methodical approach to debugging'*\*, I have an optimistic outlook and encourage myself to celebrate small wins, an attitude necessary when debugging complicated code.
 
 #### **Fast Learner**
-- I have always enjoyed taking on new challenges. When I first started as a marketing assistant I learnt the basics of Adobe Photoshop, InDesign, Campaign Monitor, Wordpress and Twitter in just two weeks, through careful note taking and practice.  I was also initially offered the job after volunteering in the department for just a week, due to my ability and eagerness to learn new things
+- I have always enjoyed taking on new challenges. When I first started as a marketing assistant I learnt the basics of Adobe Photoshop, InDesign, Campaign Monitor, Wordpress and Twitter in just two weeks, through careful note taking and practice.  I was also initially offered the job after volunteering in the department for just a week, due to my ability and eagerness to learn new things.
 
 #### **Organisation**
 - Prior to makers I developed strong organisational skills and resilience under pressure through balancing my time between my regular work, creating and managing multiple marketing campaigns, and responding to ad hoc tasks.
